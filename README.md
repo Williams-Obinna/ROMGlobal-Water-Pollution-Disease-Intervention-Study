@@ -63,9 +63,12 @@ ________________________________________
 About
 
 This project demonstrates how Excel can be leveraged to uncover critical insights in environmental health. It blends public health analytics with data storytelling to drive informed action across sectors.
+
 Author: Williams Obinna
+
 Email: obinnawilliams3@gmail.com
 
 
 
-https://i.postimg.cc/NfkSx31R/Dashboard-for-Water-Pollution.jpg
+![Dashboard for Water Pollution](https://github.com/user-attachments/assets/2fc97e24-c404-4570-96ba-6d33ea7b9e5c)
+
